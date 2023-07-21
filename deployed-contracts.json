@@ -1,0 +1,8 @@
+{
+  "zksyncEra": {
+    "zkHarvestToken": "0x6c5D2cc6DC61bEea3576819c209d2eA31e564F0E",
+    "zkHarvest": "0xAd5E835e9b96ffDFe20E1A13b9D8910E4ef42561",
+    "zkHarvestTreasurer": "0x5f6fA67E7190CF52A3B508A5C7403B120FA27d07",
+    "zkHarvestIFO": "0x2B2d8CaD5663eb8F8cf7B48c22AE701c058338E2"
+  }
+}
